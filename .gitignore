@@ -2,6 +2,8 @@
 # 		JAVA Project Ignored files
 #---------------------------------------
 
+*DS_Store
+
 # Eclipse IDE files
 *.pydevproject
 .project
@@ -55,3 +57,4 @@ alien4cloud-doc-generator/
 alien4cloud-rest-it-compatibility/src
 alien4cloud-core/src/test/resources/log4j2.xml.my
 alien4cloud-ui/src/main/resources/log4j2.xml.my
+a4c-orchestrator-plugin/
