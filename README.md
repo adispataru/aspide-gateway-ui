@@ -1,4 +1,4 @@
-![Alien4Cloud](https://raw.githubusercontent.com/alien4cloud/alien4cloud.github.io/sources/images/alien4cloud-banner.png)
+# ASPIDE UI based on Alien4Cloud
 
 [Website](http://alien4cloud.github.io) |
 [Community](http://alien4cloud.github.io/community/index.html) |
