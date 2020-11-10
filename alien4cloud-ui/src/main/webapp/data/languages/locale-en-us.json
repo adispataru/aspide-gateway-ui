@@ -1004,7 +1004,7 @@
   },
   "HOME" : {
     "ADMIN" : {
-      "TOUR" : "Learn how to configure Alien4Cloud , users and roles, clouds etc."
+      "TOUR" : "Learn how to configure ASPIDE Gateway, users and roles, clouds etc."
     }
   },
   "HOPSCOTCH_MISSING" : {
@@ -1013,10 +1013,10 @@
   },
   "INSTANCE" : "Instance",
   "MAIN" : {
-    "CONTACT" : "Please contact your Alien4Cloud administrator.",
+    "CONTACT" : "Please contact your ASPIDE administrator.",
     "RESTRICTED_END" : "to access to this resource.",
     "RESTRICTED_START" : "You don't have enough privileges ",
-    "WELCOME" : "Welcome on ALIEN 4 Cloud"
+    "WELCOME" : "Welcome to ASPIDE Gateway"
   },
   "MODAL" : {
     "TITLE" : {
@@ -1401,7 +1401,7 @@
     "refresh" : {
       "button" : "Refresh"
     },
-    "title" : "Alien4Cloud 's Metrics"
+    "title" : "Platform Metrics"
   },
   "operations" : "Operations"
 }
