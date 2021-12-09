@@ -49,7 +49,7 @@
     <rxjava.version>2.2.4</rxjava.version>
 
     <!-- JSON and YAML Parsing -->
-    <jackson.version>2.9.10.7</jackson.version>
+    <jackson.version>2.9.10.8</jackson.version>
     <!-- Yaml for properties -->
     <snakeyaml.version>1.18</snakeyaml.version>
 
